@@ -20,3 +20,6 @@ submission_score.jpg - screenshot of kaggle submission
 model_work_example.jpg - matplotlib example figure saved  
 
 To run the project run the main file (uncomment what you need).
+
+If analysis.ipynb doesn't load try:  
+https://nbviewer.org/github/lesha13/AirbusShipDetection/blob/main/analysis.ipynb
