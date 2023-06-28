@@ -2,7 +2,7 @@
 
 The goal of the test project is to build a semantic segmentation model. 
 
-dataset - directory with all data from kaggle  
+dataset - directory with all data from kaggle (is in .gitignore)  
 analysis.ipynb - exploratory data analysis  
 
 requirements.txt - required python modules and versions   
