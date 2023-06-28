@@ -13,6 +13,7 @@ model_build.py - function to create a U-Net model
 model_training.py - function to train model  
 model_tuning.py - function to tune model  
 model_inference.py - function for model inference  
+main.py - the entry point of a program  
 model.h5 - saved trained model  
 results.csv - encoded inference results written in kaggle required format  
 
